@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Coca7198
 - 👀 I’m interested in tools. And analyzing applications. And related databases.
 - 🌱I am currently researching the related database management system.
-- 💞️ I’m looking to collaborate on related databases and tools to support work. And analyze applications (for example: Hago).
+- 💞️ I’m looking to collaborate on related databases and tools to support work. And analyze applications 
 - 📫 How to reach me on WhatsApp: 0339996721
 - 😄 Oh dear!
 - ⚡ Like to hack Lucky Bet games.
